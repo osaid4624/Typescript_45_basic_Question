@@ -43,7 +43,8 @@ Object.defineProperty(exports, "__esModule", { value: true });
 //     console.log(name[i]); // Jo specific name show karwna ha uska index number likho
 // Complete 
 //Assimemt No 9 
-let names = ['usaid', 'ali', 'hamza', 'hussain'];
-for (let name of names) {
-    console.log(`${name} "would you like to learn typescript`);
-}
+// let names :string[]=['usaid','ali','hamza','hussain']
+// for (let name of names){
+//     console.log(`${name} "would you like to learn typescript`);
+// }
+//Assiment complete
